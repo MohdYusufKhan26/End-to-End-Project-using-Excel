@@ -9,7 +9,7 @@ This project analyzes sales performance using **Excel dashboards** with **Pivot 
 ✅ **Macro-Enabled** Checkboxes to refresh and update all Pivot Tables at once.  
 
 ## 📷 Dashboard Preview  
-!![Screenshot 2025-02-09 000224](https://github.com/user-attachments/assets/daf9e131-f42f-4a55-aff4-01a7be50634d) 
+![Screenshot 2025-02-09 000224](https://github.com/user-attachments/assets/daf9e131-f42f-4a55-aff4-01a7be50634d) 
 
 ## 🛠 Skills Used  
 📌 **Excel:** Pivot Tables, Charts, Conditional Formatting  
